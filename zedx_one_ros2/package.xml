@@ -4,7 +4,7 @@
   <name>zedx_one_ros2</name>
   <version>0.1.0</version>
   <description>ROS 2 Humble wrapper node for ZED X One / ArgusCapture</description>
-  <maintainer email="developer@oprones.com">Oprones</maintainer>
+  <maintainer email="suhan.park@oprones.com">Suhan Park</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
